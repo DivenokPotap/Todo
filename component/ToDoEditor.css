@@ -1,0 +1,39 @@
+.TaskEditor input{
+    margin-left: 40px;
+}
+.inputs{
+    margin-left: -250px;
+}
+.check:checked{
+    color: green;
+}
+.NameINPT{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+.CheckBox{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    position: absolute;
+}
+.Done{
+    position: absolute;
+    margin-left: 620px;
+    margin-top: -38px;
+    color: black;
+}
+.Submit{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+h2{
+    color: black;
+}
